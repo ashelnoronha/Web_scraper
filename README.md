@@ -1,2 +1,2 @@
-# PRODIGY_SD_05
+Web scraper_Python
 A basic program to scrape a website using python
